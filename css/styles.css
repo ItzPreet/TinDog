@@ -147,8 +147,8 @@ font-weight: bold;
 
  }
  .card-body img{
-  width: 370px;
-  height: 250px;
+  width: 95%;
+  height: 95%;
  }
  .pricing-col{
    padding: 3% 2% ;
