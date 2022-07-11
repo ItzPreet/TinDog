@@ -166,6 +166,8 @@ font-weight: bold;
 
  .social-icon{
    margin: 20px 10px;
+   font-size: 200%;
+   cursor: pointer;
  }
 
  @media(max-width:1028px){
